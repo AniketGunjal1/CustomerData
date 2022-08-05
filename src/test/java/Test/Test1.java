@@ -16,6 +16,8 @@ public class Test1 {
 
 	@Before
 	public void setUp() throws Exception {
+		
+		
 	}
 
 	@Test
